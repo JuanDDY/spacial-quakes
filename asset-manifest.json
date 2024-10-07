@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/spacial-quakes/static/css/main.0a1804a8.css",
+    "main.js": "/spacial-quakes/static/js/main.b7768aaf.js",
+    "static/js/453.7a6cbbcd.chunk.js": "/spacial-quakes/static/js/453.7a6cbbcd.chunk.js",
+    "static/media/texturaLuna.jpg": "/spacial-quakes/static/media/texturaLuna.f117e858b7103e8b30b7.jpg",
+    "static/media/texturaMarte.jpg": "/spacial-quakes/static/media/texturaMarte.50e90596c2ee9c12c105.jpg",
+    "index.html": "/spacial-quakes/index.html",
+    "main.0a1804a8.css.map": "/spacial-quakes/static/css/main.0a1804a8.css.map",
+    "main.b7768aaf.js.map": "/spacial-quakes/static/js/main.b7768aaf.js.map",
+    "453.7a6cbbcd.chunk.js.map": "/spacial-quakes/static/js/453.7a6cbbcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a1804a8.css",
+    "static/js/main.b7768aaf.js"
+  ]
+}
